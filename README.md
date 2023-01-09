@@ -10,19 +10,19 @@ Time spent: **1** hour spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [X] Image and introductory message displayed on screen
+* [X] Button displayed on screen
+* [X] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
-* [ ] Customised the background color of the main activity!
+* [X] Customised the background color of the main activity!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/GiridharaSPK/HelloWorldApp/blob/main/hello_app_1.gif' title='App Walkthrough GIF' width='' alt='GIF Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Licecap
